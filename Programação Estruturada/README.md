@@ -1,9 +1,11 @@
 # Programação Estruturada Q3.2021
 
-## Professor: Paulo Pisani
+## Professor: Paulo Henrique Pisani
+
 ### Linguaguem: C
 
 ### Conteúdo Abordado:
+
 - Semana 01: Introdução à Linguagem C
 - Semana 02: Vetores, Funções e passagem de parâmetros
 - Semana 03: Strings e Matrizes
