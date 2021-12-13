@@ -4,8 +4,9 @@ Escreva um programa que fique lendo uma sequência de números inteiros com uma 
 
 Por exemplo:
 
-para a sequência 10 20 30 40 50 -99, o programa deve imprimir "CRESCENTE"
-para a sequência 50 40 30 20 10 -99, o programa deve imprimir "DECRESCENTE".
-para a sequência 30 20 50 10 20 -99, o programa deve imprimir "NAO ORDENADA".
+- para a sequência 10 20 30 40 50 -99, o programa deve imprimir "CRESCENTE"
+- para a sequência 50 40 30 20 10 -99, o programa deve imprimir "DECRESCENTE".
+- para a sequência 30 20 50 10 20 -99, o programa deve imprimir "NAO ORDENADA".
+
 Importante: não é permitido o uso de vetor e stdlib.h para resolver este exercício.
 
