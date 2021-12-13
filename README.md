@@ -1,3 +1,3 @@
 # Sobre
 
-![UFABC LOGO](https://s1.static.brasilescola.uol.com.br/be/vestibular/-5a54e73d29011.jpg)
+![UFABC LOGO](https://ondetemcoronavirus.ufabc.edu.br/wp-content/uploads/2020/09/logo-ufabc-1-1.png)
