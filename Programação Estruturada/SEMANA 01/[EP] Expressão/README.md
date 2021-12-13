@@ -5,9 +5,9 @@ Escreva um programa que leia uma expressão aritmética com as operações +, -,
 Não haverá espaços em branco entre os operandos e os operadores e também não haverá parênteses na equação. Lembre-se de seguir as regras de precedência (multiplicação e divisão devem ser realizadas antes de soma e subtração). Todos os operandos serão valores positivos, portanto, 8+-7 não é uma expressão válida. O resultado da expressão deve ser um número inteiro, ou seja, todas as operações são efetuadas com números inteiros.
 
 
+## Exemplos
 
-Exemplos
-Teste 1
+#### Teste 1
 
 Entrada:
 
@@ -19,7 +19,7 @@ Saída:
 
 
 
-Teste 2
+#### Teste 2
 
 Entrada:
 
@@ -31,7 +31,7 @@ Saída:
 
 
 
-Teste 3
+#### Teste 3
 
 Entrada:
 
